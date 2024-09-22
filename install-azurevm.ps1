@@ -1,0 +1,1 @@
+msiexec /i "https://github.com/observiq/bindplane-agent/releases/download/v1.60.0/observiq-otel-collector.msi" /quiet ENABLEMANAGEMENT="1" OPAMPENDPOINT="ws://172.27.245.18:3001/v1/opamp" OPAMPSECRETKEY="01J822S5BHBRAHGRTK172736XJ" OPAMPLABELS="install_id=7421bcd7-dad4-4d23-9e64-7c3449b91d57"
